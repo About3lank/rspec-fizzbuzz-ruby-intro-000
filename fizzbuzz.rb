@@ -5,9 +5,9 @@ def fizzbuzz(x)
   remainder_3 = x % 3
   remainder_15 = x % 15
   if remainder_15 == 0
-    puts "FizzBuzz"
+    answer = "FizzBuzz"
   elsif remainder_5 == 0
-    puts "Buzz"
+    answer = "Buzz"
   elsif remainder_3 == 0
-    puts "Fizz"
+    answer = "Fizz"
 end
