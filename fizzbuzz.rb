@@ -3,7 +3,7 @@
 def fizzbuzz(x)
   remainder_5 = x % 5
   remainder_3 = x % 3
-  if  == 0 && x % 5 == 0
+  if remainder_5 == 0 && remainder_3 == 0
 
 
 end
