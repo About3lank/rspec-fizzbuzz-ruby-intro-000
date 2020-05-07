@@ -10,5 +10,4 @@ def fizzbuzz(x)
     puts "Buzz"
   elsif remainder_3 == 0
     puts "Fizz"
-  else
 end
