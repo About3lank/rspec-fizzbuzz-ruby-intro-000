@@ -11,6 +11,6 @@ def fizzbuzz(x)
   elsif remainder_3 == 0
     answer = "Fizz"
   else
-    answer = 2
+    answer = nil
   end
 end
