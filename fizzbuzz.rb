@@ -10,4 +10,6 @@ def fizzbuzz(x)
     answer = "Buzz"
   elsif remainder_3 == 0
     answer = "Fizz"
+  else
+
 end
