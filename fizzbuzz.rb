@@ -11,5 +11,4 @@ def fizzbuzz(x)
   elsif remainder_3 == 0
     puts "Fizz"
   else
-    nil
 end
