@@ -12,4 +12,5 @@ def fizzbuzz(x)
     answer = "Fizz"
   else
     answer = 2
+  end
 end
